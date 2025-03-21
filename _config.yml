@@ -57,7 +57,7 @@ content:
       - layout: left
         border:   # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: The Development and Application of Novel Plastic Scintillators for a FLASH RT Dose Monitoring Device
+        title: Development and Application of Novel Plastic Scintillators for a FLASH RT Dose Monitoring Device
 #        link: https://github.com/lenpcmc/gate-2024
 #        link_text: Simulations
 #        additional_links:
