@@ -78,11 +78,37 @@ content:
         title: University of Iowa Health Care
         sub_title: Student Researcher
         caption: May 2024 - August 2024
-        link: UIHC Website (https://uihc.org/)
+        link: https://uihc.org/
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+
+              layout: list
+    content:
+      - layout: right
+        title: Coe College
+        sub_title: Student Researcher
+        caption: September 2023 - present
+        link: https://coe.edu
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
+              layout: list
+    content:
+      - layout: right
+        title: Club Z! Tutoring Services
+        sub_title: Tutor
+        caption: September 2024 - present
+        link: https://clubztutoring.com/
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
+          
   - title: Education
     layout: list
     content:
@@ -90,12 +116,12 @@ content:
         title: Coe College
         sub_title: BA Physics & Mathematics
         caption: 2023 - present
-        link: Coe's Website (https://coe.edu)
+        link: https://coe.edu
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-  - title: A Little More About Me
+  - title: Some More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
