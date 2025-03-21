@@ -20,7 +20,7 @@ darkmode: true
 
 # Social links
 #flickr_username: jekyll
-linkedin_username: walkerlaw
+linkedin_username: walker-law
 #googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
@@ -75,10 +75,10 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: University of Iowa Health Care
+        sub_title: Student Researcher
+        caption: May 2024 - August 2024
+        link: UIHC Website (https://uihc.org/)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -90,6 +90,7 @@ content:
         title: Coe College
         sub_title: BA Physics & Mathematics
         caption: 2023 - present
+        link: Coe's Website (https://coe.edu)
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
