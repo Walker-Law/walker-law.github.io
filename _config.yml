@@ -84,7 +84,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
 
-    content:
       - layout: right
         title: Coe College
         sub_title: Student Researcher
@@ -95,7 +94,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
 
-    content:
       - layout: right
         title: Club Z! Tutoring Services
         sub_title: Tutor
