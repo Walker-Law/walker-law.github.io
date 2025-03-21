@@ -12,16 +12,16 @@ email: wllaw23@coe.edu
 # email_title: Email (Email title override)
 phone: (360)989-6315
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+#website: Your website (eg. https://google.com)(optional)
+## website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
-flickr_username: jekyll
+#flickr_username: jekyll
 linkedin_username: walkerlaw
-googlescholar_username: D847cGsAAAAJ
+#googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
@@ -87,9 +87,9 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Coe College
+        sub_title: BA Physics & Mathematics
+        caption: 2023 - present
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
