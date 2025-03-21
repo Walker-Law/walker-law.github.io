@@ -92,7 +92,14 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+         - Created sodium borate glasses as a dielectric barrier for microplasma research
+- Presented research at Cambridge University for the 2024 Society of Glass and Technology conference
+- Used a furnace, Simultaneous Thermal Analyzer (STA), Excel spreadsheets, and grinder/polisher to create custom
+glass with high precision
+- Worked in a group with 2 other student researchers
+- Worked collaboratively with a research group at Seton Hall University
+- Analyzed data within spreadsheets using Excel
+- Goal will be to create microplasma capacitor for ozone creation, medical sterilization, and nanomaterial production
 
       - layout: right
         title: Club Z! Tutoring Services
