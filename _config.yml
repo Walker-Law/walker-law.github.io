@@ -63,9 +63,9 @@ content:
 #            icon: fab fa-github
 #            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          overview of project here
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Description about the work on/with the project here
   - title: Experience
     layout: list
     content:
@@ -75,18 +75,18 @@ content:
         caption: May 2024 - August 2024
         link: https://uihc.org/
         quote: >
-          Short description of the company (optional)
+          Short description of the company here
         description: | # this will include new lines to allow paragraphs
           Calibrated and simulated novel scintillators for FLASH RT cancer treatment. 
-          Goal will be to create a 3D dosimetry model that utilizes artificial intelligence 
-          and prototype real-time radiation dosage integration for FLASH RT cancer treatment.
+          The goal of this project is to create a 3D dosimetry model that utilizes artificial 
+          intelligence and prototype real-time radiation dosage integration for FLASH RT cancer treatment.
       - layout: right
         title: Coe College
         sub_title: Student Researcher
         caption: September 2023 - present
         link: https://coe.edu
         quote: >
-          Short description of the company (optional)
+          Short description of the college here
         description: | # this will include new lines to allow paragraphs
          blahblah
 
