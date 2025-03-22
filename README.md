@@ -5,6 +5,8 @@
 
 [View Demo](https://sproogen.github.io/modern-resume-theme/)
 
+Some help with .yml formatting here: https://www.yamllint.com/
+
 ----
 
 ## Announcements
