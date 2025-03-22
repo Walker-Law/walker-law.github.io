@@ -82,7 +82,8 @@ content:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Calibrated and simulated novel scintillators for FLASH RT cancer treatment. Goal will be to create a 3D dosimetry model that utilizes artifi cial intelligence and prototype real-time radiation
+dosage integration for FLASH RT cancer treatment.
 
       - layout: right
         title: Coe College
