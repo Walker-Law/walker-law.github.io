@@ -79,12 +79,10 @@ content:
         sub_title: Student Researcher
         caption: May 2024 - August 2024
         link: https://uihc.org/
-        quote: 
+        quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Calibrated and simulated novel scintillators for FLASH RT cancer treatment. Goal will be to create a 3D dosimetry model that utilizes artifi cial intelligence and prototype real-time radiation
-dosage integration for FLASH RT cancer treatment.
-
+          Calibrated and simulated novel scintillators for FLASH RT cancer treatment. Goal will be to create a 3D dosimetry model that utilizes artifi cial intelligence and prototype real-time radiation dosage integration for FLASH RT cancer treatment.
       - layout: right
         title: Coe College
         sub_title: Student Researcher
