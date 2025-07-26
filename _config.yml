@@ -104,7 +104,7 @@ content:
         title: Club Z! Tutoring Services
         sub_title: Tutor
         caption: September 2024 - present
-        link: clubztutoring.com/
+        link: clubztutoring.com
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -124,11 +124,12 @@ content:
         title: University of Iowa Health Care
         sub_title: Student Researcher
         caption: May 2024 - August 2024
-        link: uihc.org/
+        link: uihc.org
         quote: >
           Short description of the company here
         description: | # this will include new lines to allow paragraphs
-          Calibrated and simulated novel scintillators for FLASH RT cancer treatment. 
+          Created polystyrene-based scintillators for use in FLASH RT cancer treatment. Performed Monte Carlo simulations
+          that included novel scintillators for FLASH RT cancer treatment. 
           The goal of this project is to create a 3D dosimetry model that utilizes artificial 
           intelligence and prototype real-time radiation dosage integration for FLASH RT cancer treatment.
 
