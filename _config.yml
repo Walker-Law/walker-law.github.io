@@ -43,20 +43,25 @@ linkedin_username: walker-law
 about_profile_image: images/coe id.jpg
 about_content: | # This will include new lines to allow paragraphs
 
-  Hi! I'm Walker, a physics and mathematics major at Coe College. 
-  My professional goal is to work in a national laboratory studying nuclear or 
-  high-energy physics. After Coe, I plan to pursue a PhD in high-energy physics 
-  to reach this dream. Welcome to my website!
+  Hi! My name is Walker, and I'm a first-generation undergraduate student at Coe College pursuing a Bachelor of Arts in Physics and Mathematics. I have a strong interest in many fields of physics, having performed research in observational astrophysics, computational and experimental particle physics, medical physics, material science, and nuclear physics. I also enjoy spreading knowledge, a love for physics, and science literacy through tutoring and teaching. After my undergraduate degree, I plan to pursue a Ph.D. in High Energy or Nuclear Physics.
   
 content:
   - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: none
+        title: Kinematic Optimization of SHMS and HMS using Hydrogen Elastic Reactionsfor Deuteron Electro-Disintegration Studies at Jefferson Lab
+        link: github.com/walker-law/reu2025
+        caption: May 2025 - August 2025
+        quote: subtitle thing here
+        description: description here
+
+      - layout: left
         border:   # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Development and Application of Novel Plastic Scintillators for a FLASH RT Dose Monitoring Device
-        link: https://github.com/lenpcmc/gate-2024
+        link: github.com/lenpcmc/gate-2024
 #        link_text: Simulations
 #        additional_links:
 #          - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -65,49 +70,68 @@ content:
 #          - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #            icon: fab fa-github
 #            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        caption: May 2024 - August 2024
         quote:
           overview of project here
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project here
+          
+
       - layout: left
-        border: none
-        title: Kinematic Optimization of SHMS and HMS using Hydrogen Elastic Reactionsfor Deuteron Electro-Disintegration Studies at Jefferson Lab
-        link: github.com/walker-law/reu2025
+        border:   # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Production of Sodium Borate Glass for use as a Dielectric Barrier in Low-Temperautre Microplasmas
+        link: 
+#        link_text: Simulations
+#        additional_links:
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#            icon: fab fa-github
+#            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        caption: August 2023 - August 2024
+        quote: overview of project here
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project here
+
   
   
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: University of Iowa Health Care
-        sub_title: Student Researcher
-        caption: May 2024 - August 2024
-        link: https://uihc.org/
+        title: Club Z! Tutoring Services
+        sub_title: Tutor
+        caption: September 2024 - present
+        link: clubztutoring.com/
         quote: >
-          Short description of the company here
+          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Calibrated and simulated novel scintillators for FLASH RT cancer treatment. 
-          The goal of this project is to create a 3D dosimetry model that utilizes artificial 
-          intelligence and prototype real-time radiation dosage integration for FLASH RT cancer treatment.
+          Tutor several students in physics and mathematics classes.
+
       - layout: right
         title: Coe College
         sub_title: Student Researcher
         caption: September 2023 - present
-        link: https://coe.edu
+        link: coe.edu
         quote: >
           Short description of the college here
         description: | # this will include new lines to allow paragraphs
          blahblah
 
       - layout: right
-        title: Club Z! Tutoring Services
-        sub_title: Tutor
-        caption: September 2024 - present
-        link: https://clubztutoring.com/
+        title: University of Iowa Health Care
+        sub_title: Student Researcher
+        caption: May 2024 - August 2024
+        link: uihc.org/
         quote: >
-          Short description of the company (optional)
+          Short description of the company here
         description: | # this will include new lines to allow paragraphs
-          Tutor several students in physics and mathematics classes.
+          Calibrated and simulated novel scintillators for FLASH RT cancer treatment. 
+          The goal of this project is to create a 3D dosimetry model that utilizes artificial 
+          intelligence and prototype real-time radiation dosage integration for FLASH RT cancer treatment.
+
 
           
   - title: Education
@@ -117,7 +141,7 @@ content:
         title: Coe College
         sub_title: BA Physics & Mathematics
         caption: 2023 - present
-        link: https://coe.edu
+        link: coe.edu
         quote: >
           asdf
         description: | # this will include new lines to allow paragraphs
@@ -128,8 +152,7 @@ content:
       I love photography, ice skating, hockey, skateboarding, and philosophy. 
       Some of my work is on my Fliker page that I've linked up top. Feel free to check it out!
 
-      I also enjoy opera, classical literature, and art of all kinds. Let me know if you have any recommendations!
-        link: https://github.com/walker-law/reu2025
+      I also enjoy opera, classical literature, and art of all kinds.
 
 
 
