@@ -146,7 +146,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: right
         title: Coe College
         sub_title: BA Physics & Mathematics
         caption: 2023 - present
