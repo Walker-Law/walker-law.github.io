@@ -49,14 +49,14 @@ about_content: | # This will include new lines to allow paragraphs
   to reach this dream. Welcome to my website!
   
 content:
-  - title: Projects # Title for the section
+  - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border:   # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Development and Application of Novel Plastic Scintillators for a FLASH RT Dose Monitoring Device
-#        link: https://github.com/lenpcmc/gate-2024
+        link: https://github.com/lenpcmc/gate-2024
 #        link_text: Simulations
 #        additional_links:
 #          - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -65,10 +65,14 @@ content:
 #          - title:  Github page for project (eg. sproogen/modern-resume-theme)
 #            icon: fab fa-github
 #            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
+        quote:
           overview of project here
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project here
+        title: Kinematic Optimization of SHMS and HMS using Hydrogen Elastic Reactionsfor Deuteron Electro-Disintegration Studies at Jefferson Lab
+        link: github.com/walker-law/reu2025
+  
+  
   - title: Experience
     layout: list
     content:
@@ -123,6 +127,11 @@ content:
       Some of my work is on my Fliker page that I've linked up top. Feel free to check it out!
 
       I also enjoy opera, classical literature, and art of all kinds. Let me know if you have any recommendations!
+        link: https://github.com/walker-law/reu2025
+
+
+
+
 
 # Footer
 footer_show_references: false
