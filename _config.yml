@@ -70,6 +70,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project here
       - layout: left
+        border: none
         title: Kinematic Optimization of SHMS and HMS using Hydrogen Elastic Reactionsfor Deuteron Electro-Disintegration Studies at Jefferson Lab
         link: github.com/walker-law/reu2025
   
