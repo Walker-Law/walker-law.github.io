@@ -56,7 +56,9 @@ content:
         link: github.com/walker-law/reu2025
         caption: May 2025 - August 2025
         quote: subtitle thing here
-        description: description here
+        description: Optimized kinematic measurements of the Super High Momentum Spectrometer (SHMS) and High Momentum Spectrometer
+          (HMS) for future studies of deuteron electro-disintegration studies. Created Python code for use of optimization methods
+          for general experiments. This research project was an REU at The Catholic University of America in the summer of 2025.
 
       - layout: center
         border:   # Value of `weak` will display a weak border below this item. # Any 
@@ -98,7 +100,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Produced many samples of sodium borate glass disks with varying molar percentage of sodium oxide.
           These molded samples were sent to Seton Hall University for testing, where the disks would be placed between
-          capacitor-like electrodes for testing of their effectiveness at produced low-temperature microplasma.
+          capacitor-like electrodes for testing of their effectiveness at producing low-temperature microplasma.
 
   
   
