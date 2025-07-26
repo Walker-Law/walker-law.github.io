@@ -155,8 +155,9 @@ content:
           Relevant Coursework
         description: | # this will include new lines to allow paragraphs
           Classical Mechanics --- Relativity and Cosmology --- Computational Linear Algebra --- Modern Physics            
-          General Physics II --- Stars & Galaxies --- Mathematical Methods for Physicists --- Calculus III --- Cultural History of Physics      
-          Foundations of Advanced Mathematics (Discrete Mathematics) --- Particle Physics --- Complex Analysis --- Electromagnetism
+          General Physics II --- Stars & Galaxies --- Mathematical Methods for Physicists --- Calculus III            
+          Cultural History of Physics --- Foundations of Advanced Mathematics (Discrete Mathematics)
+          Particle Physics --- Complex Analysis --- Electromagnetism
 
 
 
