@@ -56,9 +56,11 @@ content:
         link: github.com/walker-law/reu2025
         caption: May 2025 - August 2025
         quote: subtitle thing here
-        description: Optimized kinematic measurements of the Super High Momentum Spectrometer (SHMS) and High Momentum Spectrometer
-          (HMS) for future studies of deuteron electro-disintegration studies. Created Python code for use of optimization methods
-          for general experiments. This research project was an REU at The Catholic University of America in the summer of 2025.
+        description: Optimized measurements of kinematics (invariant mass, missing energy, missing momentum, etc.) 
+          of the Super High Momentum Spectrometer (SHMS) and High Momentum Spectrometer (HMS)  at Thomas Jefferson
+          National Accelerator Facility for future studies of deuteron electro-disintegration studies. Created Python 
+          code for use of optimization methods for general experiments. This research project was an REU at The Catholic 
+          University of America in the summer of 2025.
 
       - layout: center
         border:   # Value of `weak` will display a weak border below this item. # Any 
