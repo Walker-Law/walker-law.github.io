@@ -21,6 +21,7 @@ darkmode: true
 # Social links
 flickr_username: 202437032@N05
 linkedin_username: walker-law
+github_username: walker-law
 #googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
@@ -74,7 +75,9 @@ content:
         quote:
           overview of project here
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project here
+          Created and calibrated polystyrene-based scintillators via experiment and Monte Carlos simulations
+          for use in FLASH RT cancer treatment. The goal of this project is to create a 3D dosimetry model that utilizes artificial 
+          intelligence and prototype real-time radiation dosage integration for FLASH RT cancer treatment.
           
 
       - layout: center
@@ -128,9 +131,8 @@ content:
         quote: >
           Short description of the company here
         description: | # this will include new lines to allow paragraphs
-          Created polystyrene-based scintillators for use in FLASH RT cancer treatment. Performed Monte Carlo simulations
-          that included novel scintillators for FLASH RT cancer treatment. 
-          The goal of this project is to create a 3D dosimetry model that utilizes artificial 
+          Created and calibrated polystyrene-based scintillators via experiment and Monte Carlos simulations
+          for use in FLASH RT cancer treatment. The goal of this project is to create a 3D dosimetry model that utilizes artificial 
           intelligence and prototype real-time radiation dosage integration for FLASH RT cancer treatment.
 
 
