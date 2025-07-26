@@ -50,7 +50,7 @@ content:
   - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: left
         border: none
         title: Kinematic Optimization of SHMS and HMS using Hydrogen Elastic Reactionsfor Deuteron Electro-Disintegration Studies at Jefferson Lab
         link: github.com/walker-law/reu2025
@@ -62,7 +62,7 @@ content:
           code for use of optimization methods for general experiments. This research project was an REU at The Catholic 
           University of America in the summer of 2025.
 
-      - layout: center
+      - layout: left
         border:   # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Development and Application of Novel Plastic Scintillators for a FLASH RT Dose Monitoring Device
@@ -84,7 +84,7 @@ content:
           intelligence and prototype real-time radiation dosage integration for FLASH RT cancer treatment.
           
 
-      - layout: center
+      - layout: left
         border:   # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Production of Sodium Borate Glass for use as a Dielectric Barrier in Low-Temperautre Microplasmas
@@ -109,7 +109,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Club Z! Tutoring Services
         sub_title: Tutor
         caption: September 2024 - present
@@ -119,7 +119,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Tutor several students in physics and mathematics classes.
 
-      - layout: right
+      - layout: left
         title: Coe College
         sub_title: Student Researcher
         caption: September 2023 - present
@@ -129,7 +129,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          blahblah
 
-      - layout: right
+      - layout: left
         title: University of Iowa Health Care
         sub_title: Student Researcher
         caption: May 2024 - August 2024
@@ -146,7 +146,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Coe College
         sub_title: BA Physics & Mathematics
         caption: 2023 - present
